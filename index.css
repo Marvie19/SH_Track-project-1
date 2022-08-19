@@ -12,9 +12,9 @@ body {
 
 
 .back-image {
-   background: url(Images/halie-west.jpg);
+   background: url('halie-west.jpg');
    width: 600px;
-   height: 960px;
+   height: 1000px;
    padding: 20px;
 }
 
